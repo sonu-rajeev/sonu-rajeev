@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sonu-rajeev
+- 👀 I’m interested in web development, especially frontend technologies.
+- 🌱 I’m currently learning Javascript and React.js.
+- 💞️ I’m looking to collaborate on open-source frontend projects and innovative web applications.
+- 📫 How to reach me: sonurajeev99@gmail.com
+- 🧑 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and exploring new trails on weekends.
